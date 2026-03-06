@@ -1,0 +1,20 @@
+{
+  "name": "web-dev-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "Tarun",
+    "Sharma"
+  ],
+  "license": "ISC",
+  "author": "Tarun Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 1_index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
