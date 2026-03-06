@@ -1,1 +1,7 @@
-// contains everyting which we dont want to push on the github
+# contains everyting which we dont want to push on the github
+
+# dependencies
+node_modules/
+
+# environment variables
+.env
