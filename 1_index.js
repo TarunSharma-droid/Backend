@@ -9,7 +9,7 @@ const port = 3000
 app.get('/', (req, res) => { // get is a request . here made on the home page
   res.send('Hello World!')
 })
-
+ 9
 app.get('/twitter',(req,res) =>{
     res.send('twitter is opened')
 })
